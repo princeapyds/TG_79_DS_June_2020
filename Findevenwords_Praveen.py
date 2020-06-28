@@ -1,3 +1,4 @@
+print("This program is to find even words in the given sentence")
 st_2 = 'Print every word in this sentence that has an even number of letters'
 spl = st_2.split(' ')
 for word in spl:
